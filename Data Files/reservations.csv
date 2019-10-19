@@ -1,3 +1,3 @@
 Num_Appartement; Nom_Client; Prix; Devise; Comments;Phone;Mode_paiement;nbr_adulte;nbr_enfant;jour_arrive;jour_depart;filler
-Appartement 2; Nicolas Sarkozy; 1200;Dirhams; Voici mon commentaire;+33699089737;A payé en ligne;2;3;20102019;25102019;
-Appartement 5; Jacques Chirac; 400;Euros; Riji m3a 2h diel sba7;+2123004903403;Va payer sur place;2;0;10102019;21102019;
+Appartement 2; Nicolas Sarkozy; 1200;Dirhams; Voici mon commentaire;+33699089737;A payé en ligne;2;3;20;25102019;
+Appartement 5; Jacques Chirac; 400;Euros; Riji m3a 2h diel sba7;+2123004903403;Va payer sur place;2;0;10;21102019;
