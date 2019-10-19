@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OpenTheBrowser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>682d41b4-7883-4377-bdd0-d86f498bf3f6</testCaseGuid>
+   <variable>
+      <defaultValue>'NOM PRENOM'</defaultValue>
+      <description></description>
+      <id>010186bb-7b00-4e28-9ae6-d06e6a5530d2</id>
+      <masked>false</masked>
+      <name>Nom_Client</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>73622317-946c-4e96-acc8-4d8cf27ac357</id>
+      <masked>false</masked>
+      <name>Prix</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pas de commentaire'</defaultValue>
+      <description></description>
+      <id>b6166cce-04ab-4fc6-b945-0f305404beec</id>
+      <masked>false</masked>
+      <name>Comments</name>
+   </variable>
+</TestCaseEntity>

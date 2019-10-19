@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+NouvelleReservation,,,2019-10-19 23:06:29,2019-10-19 23:06:32,"2,093s",FAILED
+,,,,,,
+Test Cases/NouvelleReservation,,,2019-10-19 23:06:30,2019-10-19 23:06:31,"1,438s",FAILED
+"openBrowser("""")",,,2019-10-19 23:06:31,2019-10-19 23:06:31,"0,609s",FAILED
+,,,,,,
+Test Cases/NouvelleReservation,,,2019-10-19 23:06:31,2019-10-19 23:06:31,"0,055s",FAILED
+"openBrowser("""")",,,2019-10-19 23:06:31,2019-10-19 23:06:31,"0,010s",FAILED

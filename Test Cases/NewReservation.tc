@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NewReservation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe92b2b8-9b2a-4740-9e77-7a5109b359af</testCaseGuid>
+   <variable>
+      <defaultValue>'NOM PRENOM'</defaultValue>
+      <description></description>
+      <id>d420b7dd-e170-4f39-bdea-4fddf414beab</id>
+      <masked>false</masked>
+      <name>Nom_Client</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>537bf527-b285-47ba-8342-c1d2c1de0ffe</id>
+      <masked>false</masked>
+      <name>Prix</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pas de commentaire'</defaultValue>
+      <description></description>
+      <id>f6dd1db3-f0c9-4987-9dda-efc4a33e1aed</id>
+      <masked>false</masked>
+      <name>Comments</name>
+   </variable>
+   <variable>
+      <defaultValue>'Appartement 1'</defaultValue>
+      <description></description>
+      <id>f66302f7-87a0-49b9-b3f7-2bbb4d3903ac</id>
+      <masked>false</masked>
+      <name>Appartement</name>
+   </variable>
+</TestCaseEntity>

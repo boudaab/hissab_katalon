@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+NouvelleReservation,Chrome 77.0.3865.120,,2019-10-19 23:29:16,2019-10-19 23:29:29,"12,947s",FAILED
+,,,,,,
+Test Cases/OpenTheBrowser,Chrome 77.0.3865.120,,2019-10-19 23:29:17,2019-10-19 23:29:27,"10,134s",PASSED
+"openBrowser("""")",Chrome 77.0.3865.120,,2019-10-19 23:29:17,2019-10-19 23:29:21,"4,035s",PASSED
+"navigateToUrl(""http://localhost:4200/"")",Chrome 77.0.3865.120,,2019-10-19 23:29:21,2019-10-19 23:29:24,"2,969s",PASSED
+"click(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/h2_Bienvenue""))",Chrome 77.0.3865.120,,2019-10-19 23:29:24,2019-10-19 23:29:26,"1,738s",PASSED
+"setText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Email_email""), ""abdellatif.boudalh@gmail.com"")",Chrome 77.0.3865.120,,2019-10-19 23:29:26,2019-10-19 23:29:26,"0,332s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Mot de passe_password""), ""g5aLkrmNNK9wgGsRIXINCA=="")",Chrome 77.0.3865.120,,2019-10-19 23:29:26,2019-10-19 23:29:27,"0,308s",PASSED
+"click(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/button_Connexion""))",Chrome 77.0.3865.120,,2019-10-19 23:29:27,2019-10-19 23:29:27,"0,111s",PASSED
+,,,,,,
+Test Cases/NewReservation,Chrome 77.0.3865.120,,2019-10-19 23:29:27,2019-10-19 23:29:29,"1,807s",FAILED
+"scrollToElement(findTestObject(""NouvelleReservations/Page_Application Hissab/h3_Reservations""), 0)",Chrome 77.0.3865.120,,2019-10-19 23:29:27,2019-10-19 23:29:28,"0,592s",PASSED
+"click(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/h3_Reservations""))",Chrome 77.0.3865.120,,2019-10-19 23:29:28,2019-10-19 23:29:29,"0,716s",FAILED
+,,,,,,
+Test Cases/NewReservation,Chrome 77.0.3865.120,,2019-10-19 23:29:29,2019-10-19 23:29:29,"0,529s",FAILED
+"scrollToElement(findTestObject(""NouvelleReservations/Page_Application Hissab/h3_Reservations""), 0)",Chrome 77.0.3865.120,,2019-10-19 23:29:29,2019-10-19 23:29:29,"0,044s",PASSED
+"click(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/h3_Reservations""))",Chrome 77.0.3865.120,,2019-10-19 23:29:29,2019-10-19 23:29:29,"0,460s",FAILED
