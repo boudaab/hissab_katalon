@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_012345678 et</name>
+   <name>select_nbr_adulte</name>
    <tag></tag>
    <elementGuidId>81ccb873-421b-4e7d-9dec-e40cabdc4fd2</elementGuidId>
    <selectorCollection>

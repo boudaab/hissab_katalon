@@ -54,4 +54,18 @@
       <masked>false</masked>
       <name>Mode_paiement</name>
    </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>839d4661-17f1-4ace-9b17-ae6844258e8c</id>
+      <masked>false</masked>
+      <name>nbr_adulte</name>
+   </variable>
+   <variable>
+      <defaultValue>'0'</defaultValue>
+      <description></description>
+      <id>5bfff77e-99e3-4af0-8479-5cb4ea4d385a</id>
+      <masked>false</masked>
+      <name>nbr_enfant</name>
+   </variable>
 </TestCaseEntity>

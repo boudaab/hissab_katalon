@@ -37,11 +37,11 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/NouvelleReservations
 WebUI.selectOptionByValue(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer'), 
     Mode_paiement, true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/select_012345678 et'), 
-    '2', true)
+WebUI.selectOptionByValue(findTestObject('NouvelleReservations/Page_Application Hissab/select_nbr_adulte'), nbr_adulte, 
+    true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/select_012345678 et _1'), 
-    '3', true)
+WebUI.selectOptionByValue(findTestObject('NouvelleReservations/Page_Application Hissab/select_nbr_enfant'), nbr_enfant, 
+    true)
 
 WebUI.setText(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/textarea_Commentaires (faculta'), 
     Comments)
