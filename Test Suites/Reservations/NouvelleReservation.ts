@@ -4,7 +4,7 @@
    <name>NouvelleReservation</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2019-10-20T00:20:18</lastRun>
+   <lastRun>2019-10-20T00:53:14</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -102,6 +102,18 @@
          <type>DATA_COLUMN</type>
          <value>nbr_enfant</value>
          <variableId>5bfff77e-99e3-4af0-8479-5cb4ea4d385a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b505b81e-65dc-4bc2-b90c-f68f60a1f1bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jour_arrive</value>
+         <variableId>29a5fa90-da76-4761-aa3a-e80ee27bf518</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b505b81e-65dc-4bc2-b90c-f68f60a1f1bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jour_depart</value>
+         <variableId>ca0bf71b-1980-4f29-bd84-2e5820881f3a</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>

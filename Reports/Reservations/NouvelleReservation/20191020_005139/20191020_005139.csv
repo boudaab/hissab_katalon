@@ -1,0 +1,49 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+NouvelleReservation,Chrome 77.0.3865.120,,2019-10-20 00:51:46,2019-10-20 00:52:05,"19,503s",PASSED
+,,,,,,
+Test Cases/OpenTheBrowser,Chrome 77.0.3865.120,,2019-10-20 00:51:46,2019-10-20 00:51:56,"9,734s",PASSED
+"openBrowser("""")",Chrome 77.0.3865.120,,2019-10-20 00:51:47,2019-10-20 00:51:51,"3,999s",PASSED
+"navigateToUrl(""http://localhost:4200/"")",Chrome 77.0.3865.120,,2019-10-20 00:51:51,2019-10-20 00:51:54,"2,989s",PASSED
+"click(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/h2_Bienvenue""))",Chrome 77.0.3865.120,,2019-10-20 00:51:54,2019-10-20 00:51:55,"1,287s",PASSED
+"setText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Email_email""), ""abdellatif.boudalh@gmail.com"")",Chrome 77.0.3865.120,,2019-10-20 00:51:55,2019-10-20 00:51:56,"0,321s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Mot de passe_password""), ""g5aLkrmNNK9wgGsRIXINCA=="")",Chrome 77.0.3865.120,,2019-10-20 00:51:56,2019-10-20 00:51:56,"0,355s",PASSED
+"click(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/button_Connexion""))",Chrome 77.0.3865.120,,2019-10-20 00:51:56,2019-10-20 00:51:56,"0,163s",PASSED
+,,,,,,
+Test Cases/NewReservation,Chrome 77.0.3865.120,,2019-10-20 00:51:56,2019-10-20 00:52:01,"5,306s",PASSED
+"scrollToElement(findTestObject(""NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation""), 0)",Chrome 77.0.3865.120,,2019-10-20 00:51:57,2019-10-20 00:51:58,"1,378s",PASSED
+"click(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation""))",Chrome 77.0.3865.120,,2019-10-20 00:51:58,2019-10-20 00:51:59,"0,347s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/select_Appartement 0Appartemen""), Appartement, true)",Chrome 77.0.3865.120,,2019-10-20 00:51:59,2019-10-20 00:51:59,"0,227s",PASSED
+"setText(findTestObject(""NouvelleReservations/Dates/Page_Application Hissab/input_Arriv_arrive""), jour_arrive)",Chrome 77.0.3865.120,,2019-10-20 00:51:59,2019-10-20 00:51:59,"0,232s",PASSED
+"setText(findTestObject(""NouvelleReservations/Dates/Page_Application Hissab/input_Dpart_depart""), jour_depart)",Chrome 77.0.3865.120,,2019-10-20 00:51:59,2019-10-20 00:51:59,"0,190s",PASSED
+"setText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Nom complet_nomcomplet""), Nom_Client)",Chrome 77.0.3865.120,,2019-10-20 00:51:59,2019-10-20 00:51:59,"0,296s",PASSED
+"sendKeys(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone""), Keys.chord(ENTER))",Chrome 77.0.3865.120,,2019-10-20 00:51:59,2019-10-20 00:52:00,"0,126s",PASSED
+"setText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone""), Phone)",Chrome 77.0.3865.120,,2019-10-20 00:52:00,2019-10-20 00:52:00,"0,321s",PASSED
+"setText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Prix_prix""), Prix)",Chrome 77.0.3865.120,,2019-10-20 00:52:00,2019-10-20 00:52:00,"0,170s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/select_EurosDirhams""), Devise, true)",Chrome 77.0.3865.120,,2019-10-20 00:52:00,2019-10-20 00:52:00,"0,212s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer""), Mode_paiement, true)",Chrome 77.0.3865.120,,2019-10-20 00:52:00,2019-10-20 00:52:00,"0,167s",PASSED
+"selectOptionByValue(findTestObject(""NouvelleReservations/Page_Application Hissab/select_nbr_adulte""), nbr_adulte, true)",Chrome 77.0.3865.120,,2019-10-20 00:52:00,2019-10-20 00:52:01,"0,264s",PASSED
+"selectOptionByValue(findTestObject(""NouvelleReservations/Page_Application Hissab/select_nbr_enfant""), nbr_enfant, true)",Chrome 77.0.3865.120,,2019-10-20 00:52:01,2019-10-20 00:52:01,"0,256s",PASSED
+"setText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/textarea_Commentaires (faculta""), Comments)",Chrome 77.0.3865.120,,2019-10-20 00:52:01,2019-10-20 00:52:01,"0,211s",PASSED
+"scrollToElement(findTestObject(""NouvelleReservations/Page_Application Hissab/button_Enregistrer""), 0)",Chrome 77.0.3865.120,,2019-10-20 00:52:01,2019-10-20 00:52:01,"0,041s",PASSED
+"click(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer""))",Chrome 77.0.3865.120,,2019-10-20 00:52:01,2019-10-20 00:52:01,"0,156s",PASSED
+,,,,,,
+Test Cases/NewReservation,Chrome 77.0.3865.120,,2019-10-20 00:52:01,2019-10-20 00:52:04,"2,530s",PASSED
+"scrollToElement(findTestObject(""NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation""), 0)",Chrome 77.0.3865.120,,2019-10-20 00:52:01,2019-10-20 00:52:02,"0,091s",PASSED
+"click(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation""))",Chrome 77.0.3865.120,,2019-10-20 00:52:02,2019-10-20 00:52:02,"0,100s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/select_Appartement 0Appartemen""), Appartement, true)",Chrome 77.0.3865.120,,2019-10-20 00:52:02,2019-10-20 00:52:02,"0,217s",PASSED
+"setText(findTestObject(""NouvelleReservations/Dates/Page_Application Hissab/input_Arriv_arrive""), jour_arrive)",Chrome 77.0.3865.120,,2019-10-20 00:52:02,2019-10-20 00:52:02,"0,162s",PASSED
+"setText(findTestObject(""NouvelleReservations/Dates/Page_Application Hissab/input_Dpart_depart""), jour_depart)",Chrome 77.0.3865.120,,2019-10-20 00:52:02,2019-10-20 00:52:02,"0,152s",PASSED
+"setText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Nom complet_nomcomplet""), Nom_Client)",Chrome 77.0.3865.120,,2019-10-20 00:52:02,2019-10-20 00:52:02,"0,226s",PASSED
+"sendKeys(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone""), Keys.chord(ENTER))",Chrome 77.0.3865.120,,2019-10-20 00:52:02,2019-10-20 00:52:02,"0,070s",PASSED
+"setText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone""), Phone)",Chrome 77.0.3865.120,,2019-10-20 00:52:02,2019-10-20 00:52:03,"0,215s",PASSED
+"setText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/input_Prix_prix""), Prix)",Chrome 77.0.3865.120,,2019-10-20 00:52:03,2019-10-20 00:52:03,"0,150s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/select_EurosDirhams""), Devise, true)",Chrome 77.0.3865.120,,2019-10-20 00:52:03,2019-10-20 00:52:03,"0,116s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer""), Mode_paiement, true)",Chrome 77.0.3865.120,,2019-10-20 00:52:03,2019-10-20 00:52:03,"0,125s",PASSED
+"selectOptionByValue(findTestObject(""NouvelleReservations/Page_Application Hissab/select_nbr_adulte""), nbr_adulte, true)",Chrome 77.0.3865.120,,2019-10-20 00:52:03,2019-10-20 00:52:03,"0,239s",PASSED
+"selectOptionByValue(findTestObject(""NouvelleReservations/Page_Application Hissab/select_nbr_enfant""), nbr_enfant, true)",Chrome 77.0.3865.120,,2019-10-20 00:52:03,2019-10-20 00:52:03,"0,173s",PASSED
+"setText(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/textarea_Commentaires (faculta""), Comments)",Chrome 77.0.3865.120,,2019-10-20 00:52:03,2019-10-20 00:52:04,"0,262s",PASSED
+"scrollToElement(findTestObject(""NouvelleReservations/Page_Application Hissab/button_Enregistrer""), 0)",Chrome 77.0.3865.120,,2019-10-20 00:52:04,2019-10-20 00:52:04,"0,031s",PASSED
+"click(findTestObject(""Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer""))",Chrome 77.0.3865.120,,2019-10-20 00:52:04,2019-10-20 00:52:04,"0,170s",PASSED
+,,,,,,
+Test Cases/CloseTheBrowser,Chrome 77.0.3865.120,,2019-10-20 00:52:04,2019-10-20 00:52:05,"1,505s",PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 77.0.3865.120,,2019-10-20 00:52:04,2019-10-20 00:52:05,"1,086s",PASSED

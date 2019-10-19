@@ -68,4 +68,18 @@
       <masked>false</masked>
       <name>nbr_enfant</name>
    </variable>
+   <variable>
+      <defaultValue>'20'</defaultValue>
+      <description></description>
+      <id>29a5fa90-da76-4761-aa3a-e80ee27bf518</id>
+      <masked>false</masked>
+      <name>jour_arrive</name>
+   </variable>
+   <variable>
+      <defaultValue>'25'</defaultValue>
+      <description></description>
+      <id>ca0bf71b-1980-4f29-bd84-2e5820881f3a</id>
+      <masked>false</masked>
+      <name>jour_depart</name>
+   </variable>
 </TestCaseEntity>

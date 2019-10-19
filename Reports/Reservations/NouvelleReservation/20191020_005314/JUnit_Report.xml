@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="NouvelleReservation" time="19" tests="4" failures="0" errors="0">
+   <testsuite name="NouvelleReservation" tests="4" failures="0" errors="0" time="19" timestamp="2019-10-20 00:53:21" hostname="bouda - DESKTOP-L8US96K" id="Test Suites/Reservations/NouvelleReservation">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\bouda\\Katalon Studio\\Hissab\\Reports\\Reservations\\NouvelleReservation\\20191020_005314"/>
+         <property name="logFiles" value="C:\\Users\\bouda\\Katalon Studio\\Hissab\\Reports\\Reservations\\NouvelleReservation\\20191020_005314\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="bouda - DESKTOP-L8US96K"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.9.1.2"/>
+         <property name="browser" value="Chrome 77.0.3865.120"/>
+         <property name="hostAddress" value="192.168.99.1"/>
+         <property name="sessionId" value="96110bb671f0af1ab996b15f2a673f85"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/OpenTheBrowser" classname="Test Cases/OpenTheBrowser" status="PASSED">
+         <system-out><![CDATA[2019-10-20 00:53:21 - [TEST_CASE][PASSED] - Test Cases/OpenTheBrowser: Test Cases/OpenTheBrowser
+
+2019-10-20 00:53:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-10-20 00:53:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-10-20 00:53:23 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-10-20 00:53:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-10-20 00:53:26 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:4200/"): Navigate to 'http://localhost:4200/' successfully
+
+2019-10-20 00:53:29 - [MESSAGE][PASSED] - Navigate to 'http://localhost:4200/' successfully
+
+2019-10-20 00:53:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/h2_Bienvenue")): Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/h2_Bienvenue' is clicked on
+
+2019-10-20 00:53:30 - [MESSAGE][PASSED] - Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/h2_Bienvenue' is clicked on
+
+2019-10-20 00:53:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/input_Email_email"), "abdellatif.boudalh@gmail.com"): Text 'abdellatif.boudalh@gmail.com' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Email_email'
+
+2019-10-20 00:53:31 - [MESSAGE][PASSED] - Text 'abdellatif.boudalh@gmail.com' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Email_email'
+
+2019-10-20 00:53:31 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/input_Mot de passe_password"), "g5aLkrmNNK9wgGsRIXINCA=="): Text ****** has been set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Mot de passe_password'
+
+2019-10-20 00:53:31 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Mot de passe_password'
+
+2019-10-20 00:53:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/button_Connexion")): Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Connexion' is clicked on
+
+2019-10-20 00:53:31 - [MESSAGE][PASSED] - Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Connexion' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/NewReservation" classname="Test Cases/NewReservation" status="PASSED">
+         <system-out><![CDATA[2019-10-20 00:53:31 - [TEST_CASE][PASSED] - Test Cases/NewReservation: Test Cases/NewReservation
+
+2019-10-20 00:53:32 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation"), 0): Scroll to object 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation' successfully
+
+2019-10-20 00:53:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-10-20 00:53:33 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation' successfully
+
+2019-10-20 00:53:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation")): Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation' is clicked on
+
+2019-10-20 00:53:33 - [MESSAGE][PASSED] - Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation' is clicked on
+
+2019-10-20 00:53:33 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/select_Appartement 0Appartemen"), Appartement, true): All options with value 'Appartement 2' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_Appartement 0Appartemen'  using regular expression
+
+2019-10-20 00:53:33 - [MESSAGE][PASSED] - All options with value 'Appartement 2' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_Appartement 0Appartemen'  using regular expression
+
+2019-10-20 00:53:33 - [TEST_STEP][PASSED] - setText(findTestObject("NouvelleReservations/Dates/Page_Application Hissab/input_Arriv_arrive"), jour_arrive): Text '20102019' is set on object 'Object Repository/NouvelleReservations/Dates/Page_Application Hissab/input_Arriv_arrive'
+
+2019-10-20 00:53:34 - [MESSAGE][PASSED] - Text '20102019' is set on object 'Object Repository/NouvelleReservations/Dates/Page_Application Hissab/input_Arriv_arrive'
+
+2019-10-20 00:53:34 - [TEST_STEP][PASSED] - setText(findTestObject("NouvelleReservations/Dates/Page_Application Hissab/input_Dpart_depart"), jour_depart): Text '25102019' is set on object 'Object Repository/NouvelleReservations/Dates/Page_Application Hissab/input_Dpart_depart'
+
+2019-10-20 00:53:34 - [MESSAGE][PASSED] - Text '25102019' is set on object 'Object Repository/NouvelleReservations/Dates/Page_Application Hissab/input_Dpart_depart'
+
+2019-10-20 00:53:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/input_Nom complet_nomcomplet"), Nom_Client): Text ' Nicolas Sarkozy' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Nom complet_nomcomplet'
+
+2019-10-20 00:53:34 - [MESSAGE][PASSED] - Text ' Nicolas Sarkozy' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Nom complet_nomcomplet'
+
+2019-10-20 00:53:34 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'
+
+2019-10-20 00:53:34 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'
+
+2019-10-20 00:53:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone"), Phone): Text '+33699089737' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'
+
+2019-10-20 00:53:34 - [MESSAGE][PASSED] - Text '+33699089737' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'
+
+2019-10-20 00:53:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/input_Prix_prix"), Prix): Text ' 1200' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Prix_prix'
+
+2019-10-20 00:53:35 - [MESSAGE][PASSED] - Text ' 1200' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Prix_prix'
+
+2019-10-20 00:53:35 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/select_EurosDirhams"), Devise, true): All options with value 'Dirhams' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_EurosDirhams'  using regular expression
+
+2019-10-20 00:53:35 - [MESSAGE][PASSED] - All options with value 'Dirhams' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_EurosDirhams'  using regular expression
+
+2019-10-20 00:53:35 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer"), Mode_paiement, true): All options with value 'A payé en ligne' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer'  using regular expression
+
+2019-10-20 00:53:35 - [MESSAGE][PASSED] - All options with value 'A payé en ligne' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer'  using regular expression
+
+2019-10-20 00:53:35 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("NouvelleReservations/Page_Application Hissab/select_nbr_adulte"), nbr_adulte, true): All options with value '2' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_nbr_adulte'  using regular expression
+
+2019-10-20 00:53:35 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_nbr_adulte'  using regular expression
+
+2019-10-20 00:53:35 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("NouvelleReservations/Page_Application Hissab/select_nbr_enfant"), nbr_enfant, true): All options with value '3' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_nbr_enfant'  using regular expression
+
+2019-10-20 00:53:36 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_nbr_enfant'  using regular expression
+
+2019-10-20 00:53:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/textarea_Commentaires (faculta"), Comments): Text ' Voici mon commentaire' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/textarea_Commentaires (faculta'
+
+2019-10-20 00:53:36 - [MESSAGE][PASSED] - Text ' Voici mon commentaire' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/textarea_Commentaires (faculta'
+
+2019-10-20 00:53:36 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("NouvelleReservations/Page_Application Hissab/button_Enregistrer"), 0): Scroll to object 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer' successfully
+
+2019-10-20 00:53:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-10-20 00:53:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer' successfully
+
+2019-10-20 00:53:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer")): Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer' is clicked on
+
+2019-10-20 00:53:36 - [MESSAGE][PASSED] - Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/NewReservation" classname="Test Cases/NewReservation" status="PASSED">
+         <system-out><![CDATA[2019-10-20 00:53:36 - [TEST_CASE][PASSED] - Test Cases/NewReservation: Test Cases/NewReservation
+
+2019-10-20 00:53:36 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation"), 0): Scroll to object 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation' successfully
+
+2019-10-20 00:53:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-10-20 00:53:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation' successfully
+
+2019-10-20 00:53:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation")): Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation' is clicked on
+
+2019-10-20 00:53:36 - [MESSAGE][PASSED] - Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Nouvelle Reservation' is clicked on
+
+2019-10-20 00:53:36 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/select_Appartement 0Appartemen"), Appartement, true): All options with value 'Appartement 5' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_Appartement 0Appartemen'  using regular expression
+
+2019-10-20 00:53:37 - [MESSAGE][PASSED] - All options with value 'Appartement 5' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_Appartement 0Appartemen'  using regular expression
+
+2019-10-20 00:53:37 - [TEST_STEP][PASSED] - setText(findTestObject("NouvelleReservations/Dates/Page_Application Hissab/input_Arriv_arrive"), jour_arrive): Text '10102019' is set on object 'Object Repository/NouvelleReservations/Dates/Page_Application Hissab/input_Arriv_arrive'
+
+2019-10-20 00:53:37 - [MESSAGE][PASSED] - Text '10102019' is set on object 'Object Repository/NouvelleReservations/Dates/Page_Application Hissab/input_Arriv_arrive'
+
+2019-10-20 00:53:37 - [TEST_STEP][PASSED] - setText(findTestObject("NouvelleReservations/Dates/Page_Application Hissab/input_Dpart_depart"), jour_depart): Text '21102019' is set on object 'Object Repository/NouvelleReservations/Dates/Page_Application Hissab/input_Dpart_depart'
+
+2019-10-20 00:53:37 - [MESSAGE][PASSED] - Text '21102019' is set on object 'Object Repository/NouvelleReservations/Dates/Page_Application Hissab/input_Dpart_depart'
+
+2019-10-20 00:53:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/input_Nom complet_nomcomplet"), Nom_Client): Text ' Jacques Chirac' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Nom complet_nomcomplet'
+
+2019-10-20 00:53:38 - [MESSAGE][PASSED] - Text ' Jacques Chirac' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Nom complet_nomcomplet'
+
+2019-10-20 00:53:38 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'
+
+2019-10-20 00:53:38 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'
+
+2019-10-20 00:53:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone"), Phone): Text '+2123004903403' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'
+
+2019-10-20 00:53:38 - [MESSAGE][PASSED] - Text '+2123004903403' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'
+
+2019-10-20 00:53:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/input_Prix_prix"), Prix): Text ' 400' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Prix_prix'
+
+2019-10-20 00:53:38 - [MESSAGE][PASSED] - Text ' 400' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/input_Prix_prix'
+
+2019-10-20 00:53:38 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/select_EurosDirhams"), Devise, true): All options with value 'Euros' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_EurosDirhams'  using regular expression
+
+2019-10-20 00:53:38 - [MESSAGE][PASSED] - All options with value 'Euros' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_EurosDirhams'  using regular expression
+
+2019-10-20 00:53:38 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer"), Mode_paiement, true): All options with value 'Va payer sur place' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer'  using regular expression
+
+2019-10-20 00:53:38 - [MESSAGE][PASSED] - All options with value 'Va payer sur place' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer'  using regular expression
+
+2019-10-20 00:53:38 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("NouvelleReservations/Page_Application Hissab/select_nbr_adulte"), nbr_adulte, true): All options with value '2' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_nbr_adulte'  using regular expression
+
+2019-10-20 00:53:39 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_nbr_adulte'  using regular expression
+
+2019-10-20 00:53:39 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("NouvelleReservations/Page_Application Hissab/select_nbr_enfant"), nbr_enfant, true): All options with value '0' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_nbr_enfant'  using regular expression
+
+2019-10-20 00:53:39 - [MESSAGE][PASSED] - All options with value '0' are selected in object 'Object Repository/NouvelleReservations/Page_Application Hissab/select_nbr_enfant'  using regular expression
+
+2019-10-20 00:53:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/textarea_Commentaires (faculta"), Comments): Text ' Riji m3a 2h diel sba7' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/textarea_Commentaires (faculta'
+
+2019-10-20 00:53:39 - [MESSAGE][PASSED] - Text ' Riji m3a 2h diel sba7' is set on object 'Object Repository/NouvelleReservations/Page_Application Hissab/textarea_Commentaires (faculta'
+
+2019-10-20 00:53:39 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("NouvelleReservations/Page_Application Hissab/button_Enregistrer"), 0): Scroll to object 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer' successfully
+
+2019-10-20 00:53:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-10-20 00:53:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer' successfully
+
+2019-10-20 00:53:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer")): Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer' is clicked on
+
+2019-10-20 00:53:39 - [MESSAGE][PASSED] - Object: 'Object Repository/NouvelleReservations/Page_Application Hissab/button_Enregistrer' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CloseTheBrowser" classname="Test Cases/CloseTheBrowser" status="PASSED">
+         <system-out><![CDATA[2019-10-20 00:53:39 - [TEST_CASE][PASSED] - Test Cases/CloseTheBrowser: Test Cases/CloseTheBrowser
+
+2019-10-20 00:53:40 - [TEST_STEP][PASSED] - closeBrowser(STOP_ON_FAILURE): Browser is closed
+
+2019-10-20 00:53:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-10-20 00:53:21 - [TEST_SUITE][PASSED] - NouvelleReservation: Test Cases/CloseTheBrowser]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

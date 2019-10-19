@@ -21,6 +21,10 @@ WebUI.click(findTestObject('Object Repository/NouvelleReservations/Page_Applicat
 WebUI.selectOptionByValue(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/select_Appartement 0Appartemen'), 
     Appartement, true)
 
+WebUI.setText(findTestObject('NouvelleReservations/Dates/Page_Application Hissab/input_Arriv_arrive'), jour_arrive)
+
+WebUI.setText(findTestObject('NouvelleReservations/Dates/Page_Application Hissab/input_Dpart_depart'), jour_depart)
+
 WebUI.setText(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/input_Nom complet_nomcomplet'), 
     Nom_Client)
 
