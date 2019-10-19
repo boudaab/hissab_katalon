@@ -40,4 +40,11 @@
       <masked>false</masked>
       <name>Devise</name>
    </variable>
+   <variable>
+      <defaultValue>'&quot;+3300000000000&quot;'</defaultValue>
+      <description></description>
+      <id>0af8d024-75f4-4bc6-aecf-fd85045de9cb</id>
+      <masked>false</masked>
+      <name>Phone</name>
+   </variable>
 </TestCaseEntity>

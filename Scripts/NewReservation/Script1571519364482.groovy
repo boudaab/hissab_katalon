@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('Object Repository/NouvelleReservations/Page_Applic
 WebUI.sendKeys(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'), Keys.chord(
         Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'), '33699089798')
+WebUI.setText(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/input_Tlphone_phone'), Phone)
 
 WebUI.setText(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/input_Prix_prix'), Prix)
 
