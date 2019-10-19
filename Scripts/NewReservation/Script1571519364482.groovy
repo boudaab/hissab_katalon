@@ -32,7 +32,7 @@ WebUI.setText(findTestObject('Object Repository/NouvelleReservations/Page_Applic
 WebUI.setText(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/input_Prix_prix'), Prix)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/select_EurosDirhams'), 
-    'Dirhams', true)
+    Devise, true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer'), 
     'A payé en ligne', true)
