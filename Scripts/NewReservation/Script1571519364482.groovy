@@ -35,7 +35,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/NouvelleReservations
     Devise, true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/select_A pay en ligneVa payer'), 
-    'A payé en ligne', true)
+    Mode_paiement, true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/select_012345678 et'), 
     '2', true)

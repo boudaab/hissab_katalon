@@ -47,4 +47,11 @@
       <masked>false</masked>
       <name>Phone</name>
    </variable>
+   <variable>
+      <defaultValue>'Va payer sur place'</defaultValue>
+      <description></description>
+      <id>8fb722ee-9d84-48eb-8ef1-65e81f49bd26</id>
+      <masked>false</masked>
+      <name>Mode_paiement</name>
+   </variable>
 </TestCaseEntity>
