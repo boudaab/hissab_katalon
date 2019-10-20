@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckReservation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14971b13-180a-47fb-9e05-1ecf8d55b24d</testCaseGuid>
+   <variable>
+      <defaultValue>'Appartement 2_ Nicolas Sarkozy_2019-10-20_2019-10-25'</defaultValue>
+      <description></description>
+      <id>7eac667d-94eb-4a3d-b10f-19bce132813e</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

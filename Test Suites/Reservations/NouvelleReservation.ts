@@ -4,7 +4,7 @@
    <name>NouvelleReservation</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2019-10-20T00:59:26</lastRun>
+   <lastRun>2019-10-20T16:27:36</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -114,6 +114,27 @@
          <type>DATA_COLUMN</type>
          <value>jour_depart</value>
          <variableId>ca0bf71b-1980-4f29-bd84-2e5820881f3a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1a223ef6-7cb1-4c0e-81d8-4a998a996523</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CheckReservation</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>47b50344-9e22-4067-8aa2-231745cb30be</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/reservations</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>47b50344-9e22-4067-8aa2-231745cb30be</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>id</value>
+         <variableId>7eac667d-94eb-4a3d-b10f-19bce132813e</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
