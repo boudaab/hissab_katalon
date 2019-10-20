@@ -12,4 +12,11 @@
       <masked>false</masked>
       <name>id</name>
    </variable>
+   <variable>
+      <defaultValue>'Nicolas Sarkozy'</defaultValue>
+      <description></description>
+      <id>cf276bd8-c9ab-4b59-bdef-78aa6fe5b957</id>
+      <masked>false</masked>
+      <name>nom</name>
+   </variable>
 </TestCaseEntity>

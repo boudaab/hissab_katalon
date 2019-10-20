@@ -4,7 +4,7 @@
    <name>NouvelleReservation</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2019-10-20T16:27:36</lastRun>
+   <lastRun>2019-10-20T20:54:16</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -135,6 +135,12 @@
          <type>DATA_COLUMN</type>
          <value>id</value>
          <variableId>7eac667d-94eb-4a3d-b10f-19bce132813e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cf276bd8-c9ab-4b59-bdef-78aa6fe5b957</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>

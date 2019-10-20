@@ -29,7 +29,7 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.c
 
 
 
-RunConfiguration.setExecutionSettingFile("D:\\data\\ws-hissab-katalon\\hissab_katalon\\Reports\\Reservations\\NouvelleReservation\\20191020_162736\\execution.properties")
+RunConfiguration.setExecutionSettingFile("D:\\data\\ws-hissab-katalon\\hissab_katalon\\Reports\\Reservations\\NouvelleReservation\\20191020_205416\\execution.properties")
 
 TestCaseMain.beforeStart()
 
