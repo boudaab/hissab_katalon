@@ -34,3 +34,6 @@ WebUI.verifyElementPresent(findTestObject('NouvelleReservations/ResaTag/Page_App
 WebUI.verifyElementText(findTestObject('NouvelleReservations/ResaTag/Page_Application Hissab/div_reservation_nom', [('id') : exampleId]), 
     nom)
 
+WebUI.verifyElementText(findTestObject('NouvelleReservations/ResaTag/Page_Application Hissab/div_reservation_logement', 
+        [('id') : exampleId]), logement)
+

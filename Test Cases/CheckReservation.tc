@@ -19,4 +19,11 @@
       <masked>false</masked>
       <name>nom</name>
    </variable>
+   <variable>
+      <defaultValue>'Appartement 2'</defaultValue>
+      <description></description>
+      <id>6bb8eaec-2d9b-416b-9af1-9cf525f42dc7</id>
+      <masked>false</masked>
+      <name>logement</name>
+   </variable>
 </TestCaseEntity>
