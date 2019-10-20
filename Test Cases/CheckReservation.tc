@@ -26,4 +26,18 @@
       <masked>false</masked>
       <name>logement</name>
    </variable>
+   <variable>
+      <defaultValue>'1200'</defaultValue>
+      <description></description>
+      <id>7083e8ed-c0a1-4848-868a-584aa266649f</id>
+      <masked>false</masked>
+      <name>prix</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dirhams'</defaultValue>
+      <description></description>
+      <id>ae99ea56-039c-444c-89a0-cbd67d760500</id>
+      <masked>false</masked>
+      <name>devise</name>
+   </variable>
 </TestCaseEntity>

@@ -4,7 +4,7 @@
    <name>NouvelleReservation</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2019-10-20T20:54:16</lastRun>
+   <lastRun>2019-10-20T21:34:02</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -137,16 +137,28 @@
          <variableId>7eac667d-94eb-4a3d-b10f-19bce132813e</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>47b50344-9e22-4067-8aa2-231745cb30be</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value> Nom_Client</value>
          <variableId>cf276bd8-c9ab-4b59-bdef-78aa6fe5b957</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>47b50344-9e22-4067-8aa2-231745cb30be</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Num_Appartement</value>
+         <variableId>6bb8eaec-2d9b-416b-9af1-9cf525f42dc7</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>6bb8eaec-2d9b-416b-9af1-9cf525f42dc7</variableId>
+         <variableId>7083e8ed-c0a1-4848-868a-584aa266649f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ae99ea56-039c-444c-89a0-cbd67d760500</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
