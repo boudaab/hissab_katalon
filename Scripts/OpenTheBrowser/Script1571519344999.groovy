@@ -16,7 +16,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost:4200/')
+WebUI.navigateToUrl('http://vps.yesco.fr:5000')
 
 WebUI.click(findTestObject('Object Repository/NouvelleReservations/Page_Application Hissab/h2_Bienvenue'))
 

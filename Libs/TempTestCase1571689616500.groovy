@@ -15,9 +15,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.m
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.cucumber.keyword.internal.CucumberDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('C:\\Users\\bouda\\AppData\\Local\\Temp\\Katalon\\Test Cases\\CheckReservation\\20191020_211746\\execution.properties')
+RunConfiguration.setExecutionSettingFile('C:\\Users\\bouda\\AppData\\Local\\Temp\\Katalon\\Test Cases\\OpenTheBrowser\\20191021_222651\\execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/CheckReservation', new TestCaseBinding('Test Cases/CheckReservation',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('Test Cases/OpenTheBrowser', new TestCaseBinding('Test Cases/OpenTheBrowser',[:]), FailureHandling.STOP_ON_FAILURE , false)
     
