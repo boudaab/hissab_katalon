@@ -52,19 +52,19 @@
       <variableLink>
          <testDataLinkId>b505b81e-65dc-4bc2-b90c-f68f60a1f1bd</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value> Nom_Client</value>
+         <value>Nom_Client</value>
          <variableId>d420b7dd-e170-4f39-bdea-4fddf414beab</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>b505b81e-65dc-4bc2-b90c-f68f60a1f1bd</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value> Prix</value>
+         <value>Prix</value>
          <variableId>537bf527-b285-47ba-8342-c1d2c1de0ffe</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>b505b81e-65dc-4bc2-b90c-f68f60a1f1bd</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value> Comments</value>
+         <value>Comments</value>
          <variableId>f6dd1db3-f0c9-4987-9dda-efc4a33e1aed</variableId>
       </variableLink>
       <variableLink>
@@ -76,7 +76,7 @@
       <variableLink>
          <testDataLinkId>b505b81e-65dc-4bc2-b90c-f68f60a1f1bd</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value> Devise</value>
+         <value>Devise</value>
          <variableId>63b585aa-0968-4178-9d46-482cdf626558</variableId>
       </variableLink>
       <variableLink>
@@ -139,7 +139,7 @@
       <variableLink>
          <testDataLinkId>47b50344-9e22-4067-8aa2-231745cb30be</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value> Nom_Client</value>
+         <value>Nom_Client</value>
          <variableId>cf276bd8-c9ab-4b59-bdef-78aa6fe5b957</variableId>
       </variableLink>
       <variableLink>

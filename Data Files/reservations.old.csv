@@ -1,0 +1,7 @@
+id;Num_Appartement;Nom_Client;Prix;Devise;Comments;Phone;Mode_paiement;nbr_adulte;nbr_enfant;jour_arrive;jour_depart;filler
+Appartement 0_Haron BOUDALH_2019-10-20_2019-10-25;Appartement 0;Haron BOUDALH; 200;Dirhams; Voici mon 1er commentaire;+33699089737;A payé en ligne;2;3;20;25102019;
+Appartement 1_Lina BOUDALH_2019-10-20_2019-10-25;Appartement 1;Lina BOUDALH; 300;Dirhams; Voici mon 2em commentaire;+33699089737;A payé en ligne;2;3;20;25102019;
+Appartement 2_Adam BOUDALH_2019-10-20_2019-10-25;Appartement 2;Adam BOUDALH; 400;Dirhams; Voici mon 3em commentaire;+33699089737;A payé en ligne;2;3;20;25102019;
+Appartement 3_Kais BOUDALH_2019-10-20_2019-10-25;Appartement 3;Kais BOUDALH; 500;Dirhams; Voici mon 4em commentaire;+33699089737;A payé en ligne;2;3;20;25102019;
+Appartement 4_Youssef BOUDALH_2019-10-10_2019-10-21;Appartement 4;Youssef BOUDALH; 600;Euros; Voici mon 5em commentaire;+2123004903403;Va payer sur place;2;0;10;21102019;
+Appartement 5_Yasmine BOUDALH_2019-10-20_2019-10-25;Appartement 5;Yasmine BOUDALH; 700;Dirhams; Voici mon 6em commentaire;+33699089737;A payé en ligne;2;3;20;25102019;
