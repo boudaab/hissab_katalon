@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>NouvelleReservation</name>
+   <name>NouvelleReservationV2</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2019-10-20T21:34:02</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>b3316839-f0c3-40d5-86f7-18d1d750854d</testSuiteGuid>
+   <testSuiteGuid>0412b0da-fa9a-4945-a2a8-dd24eceadb29</testSuiteGuid>
    <testCaseLink>
       <guid>5bd7c0d3-36fa-4928-880b-657518ce1b24</guid>
       <isReuseDriver>false</isReuseDriver>
@@ -39,7 +38,7 @@
       <guid>1a7f81bd-9d41-4a31-ab21-dbeb984587a1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/NewReservation</testCaseId>
+      <testCaseId>Test Cases/NewAndCheckReservation</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>b505b81e-65dc-4bc2-b90c-f68f60a1f1bd</id>
@@ -115,56 +114,11 @@
          <value>jour_depart</value>
          <variableId>ca0bf71b-1980-4f29-bd84-2e5820881f3a</variableId>
       </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>1a223ef6-7cb1-4c0e-81d8-4a998a996523</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/CheckReservation</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>47b50344-9e22-4067-8aa2-231745cb30be</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/reservations</testDataId>
-      </testDataLink>
       <variableLink>
-         <testDataLinkId>47b50344-9e22-4067-8aa2-231745cb30be</testDataLinkId>
+         <testDataLinkId>b505b81e-65dc-4bc2-b90c-f68f60a1f1bd</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>id</value>
-         <variableId>7eac667d-94eb-4a3d-b10f-19bce132813e</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>47b50344-9e22-4067-8aa2-231745cb30be</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Nom_Client</value>
-         <variableId>cf276bd8-c9ab-4b59-bdef-78aa6fe5b957</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>47b50344-9e22-4067-8aa2-231745cb30be</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Num_Appartement</value>
-         <variableId>6bb8eaec-2d9b-416b-9af1-9cf525f42dc7</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>7083e8ed-c0a1-4848-868a-584aa266649f</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>ae99ea56-039c-444c-89a0-cbd67d760500</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>47b50344-9e22-4067-8aa2-231745cb30be</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>id</value>
-         <variableId>d9f8f492-5944-4482-99d6-99cf625d6930</variableId>
+         <variableId>eb3f5c6c-6587-48b2-b0d1-7b0aa6d082a1</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>

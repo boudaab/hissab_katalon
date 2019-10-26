@@ -6,21 +6,21 @@
    <comment></comment>
    <testCaseGuid>14971b13-180a-47fb-9e05-1ecf8d55b24d</testCaseGuid>
    <variable>
-      <defaultValue>'Appartement 2_ Nicolas Sarkozy_2019-10-20_2019-10-25'</defaultValue>
+      <defaultValue>'Appartement 1_blaise kayleigh_2019-10-02_2019-10-03'</defaultValue>
       <description></description>
       <id>7eac667d-94eb-4a3d-b10f-19bce132813e</id>
       <masked>false</masked>
       <name>id</name>
    </variable>
    <variable>
-      <defaultValue>'Nicolas Sarkozy'</defaultValue>
+      <defaultValue>'blaise kayleigh'</defaultValue>
       <description></description>
       <id>cf276bd8-c9ab-4b59-bdef-78aa6fe5b957</id>
       <masked>false</masked>
       <name>nom</name>
    </variable>
    <variable>
-      <defaultValue>'Appartement 2'</defaultValue>
+      <defaultValue>'Appartement 1'</defaultValue>
       <description></description>
       <id>6bb8eaec-2d9b-416b-9af1-9cf525f42dc7</id>
       <masked>false</masked>
@@ -39,5 +39,12 @@
       <id>ae99ea56-039c-444c-89a0-cbd67d760500</id>
       <masked>false</masked>
       <name>devise</name>
+   </variable>
+   <variable>
+      <defaultValue>'Appartement 1_blaise kayleigh_2019-10-02_2019-10-03'</defaultValue>
+      <description></description>
+      <id>d9f8f492-5944-4482-99d6-99cf625d6930</id>
+      <masked>false</masked>
+      <name>exampleId</name>
    </variable>
 </TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NewAndCheckReservation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>630b8c20-56fe-42d7-ad75-9a321a7a9c5f</testCaseGuid>
+   <variable>
+      <defaultValue>'NOM PRENOM'</defaultValue>
+      <description></description>
+      <id>d420b7dd-e170-4f39-bdea-4fddf414beab</id>
+      <masked>false</masked>
+      <name>Nom_Client</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>537bf527-b285-47ba-8342-c1d2c1de0ffe</id>
+      <masked>false</masked>
+      <name>Prix</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pas de commentaire'</defaultValue>
+      <description></description>
+      <id>f6dd1db3-f0c9-4987-9dda-efc4a33e1aed</id>
+      <masked>false</masked>
+      <name>Comments</name>
+   </variable>
+   <variable>
+      <defaultValue>'Appartement 1'</defaultValue>
+      <description></description>
+      <id>f66302f7-87a0-49b9-b3f7-2bbb4d3903ac</id>
+      <masked>false</masked>
+      <name>Appartement</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dirhams'</defaultValue>
+      <description></description>
+      <id>63b585aa-0968-4178-9d46-482cdf626558</id>
+      <masked>false</masked>
+      <name>Devise</name>
+   </variable>
+   <variable>
+      <defaultValue>'33699090909'</defaultValue>
+      <description></description>
+      <id>0af8d024-75f4-4bc6-aecf-fd85045de9cb</id>
+      <masked>false</masked>
+      <name>Phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'Va payer sur place'</defaultValue>
+      <description></description>
+      <id>8fb722ee-9d84-48eb-8ef1-65e81f49bd26</id>
+      <masked>false</masked>
+      <name>Mode_paiement</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>839d4661-17f1-4ace-9b17-ae6844258e8c</id>
+      <masked>false</masked>
+      <name>nbr_adulte</name>
+   </variable>
+   <variable>
+      <defaultValue>'0'</defaultValue>
+      <description></description>
+      <id>5bfff77e-99e3-4af0-8479-5cb4ea4d385a</id>
+      <masked>false</masked>
+      <name>nbr_enfant</name>
+   </variable>
+   <variable>
+      <defaultValue>'20'</defaultValue>
+      <description></description>
+      <id>29a5fa90-da76-4761-aa3a-e80ee27bf518</id>
+      <masked>false</masked>
+      <name>jour_arrive</name>
+   </variable>
+   <variable>
+      <defaultValue>'25102019'</defaultValue>
+      <description></description>
+      <id>ca0bf71b-1980-4f29-bd84-2e5820881f3a</id>
+      <masked>false</masked>
+      <name>jour_depart</name>
+   </variable>
+   <variable>
+      <defaultValue>'Appartement 1_blaise kayleigh_2019-10-02_2019-10-03'</defaultValue>
+      <description></description>
+      <id>eb3f5c6c-6587-48b2-b0d1-7b0aa6d082a1</id>
+      <masked>false</masked>
+      <name>exampleId</name>
+   </variable>
+</TestCaseEntity>
